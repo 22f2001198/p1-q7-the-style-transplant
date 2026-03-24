@@ -1,0 +1,8 @@
+{
+"prompt": "Simpson's paradox in authentic Bauhaus graphic design, 1919–1933: asymmetrical geometric composition of overlapping primary color blocks—red, yellow, blue—creating impossible spatial reversals where local trends (small tilted rectangles grouped by hue, ascending within clusters) contradict the global trend (large enclosing forms descending overall); crisp sans-serif lines form tense, non-Euclidean intersections defying balance, white space isolates conflicting aggregates, no text or labels, pure functional form conveying data reversal through color tension and impossible hierarchy --ar 2:3 --v 6 --style raw --no text, labels, diagrams",
+"model": "Midjourney v6.1",
+"concept": "Simpson's paradox",
+"tradition_name": "Bauhaus graphic design",
+"tradition_period": "1919–1933",
+"tradition_approach": "Primary colors, geometric asymmetry, and spatial tension via overlapping forms; these embody paradoxical aggregation where local upward trends visually invert globally, per Bauhaus form-follows-function grammar."
+}
